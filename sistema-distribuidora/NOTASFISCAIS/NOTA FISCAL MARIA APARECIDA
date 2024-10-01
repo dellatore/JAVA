@@ -1,0 +1,33 @@
+========PEDIDO========
+
+Cliente: 
+nome: Maria Aparecida
+contato: 16992155796
+logradouro: Av Rodrigo Fernando Grilo
+numero: 1424bairro: Lupo I
+cep: 14606123
+cidade: Araraquara
+complemento: Ap 24
+------------------------
+status: FINALIZADO
+forma de pagamento: DINHEIRO
+tipo do pedido: RETIRADA
+valor total do pedido: 86.9
+frete do pedido: 7
+------------------------
+[
+------------------------
+Produto: 
+Descrição: Coca-Cola Original 350ml Lata
+Marca: COCACOLA
+Valor: 3.89
+Quantidade: 10
+Valor total: 38.9, 
+------------------------
+Produto: 
+Descrição: Fanta Original 2L Garrafa
+Marca: FANTA
+Valor: 8.0
+Quantidade: 6
+Valor total: 48.0]
+------------------------

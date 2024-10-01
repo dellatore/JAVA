@@ -1,0 +1,40 @@
+========PEDIDO========
+
+Cliente: 
+nome: João Pedro da Silva Vieira
+contato: 16992155796
+logradouro: Av Governador Orestes Quercia
+numero: 1301bairro: Lupo II
+cep: 14804300
+cidade: Araraquara
+complemento: Ap 401 bloco 24
+------------------------
+status: FINALIZADO
+forma de pagamento: DEBITO
+tipo do pedido: ENTREGA
+valor total do pedido: 140.58
+frete do pedido: 7
+------------------------
+[
+------------------------
+Produto: 
+Descrição: Coca-Cola Original 350ml Lata
+Marca: COCACOLA
+Valor: 3.89
+Quantidade: 12
+Valor total: 46.68, 
+------------------------
+Produto: 
+Descrição: Fanta Original 2L Garrafa
+Marca: FANTA
+Valor: 8.0
+Quantidade: 6
+Valor total: 48.0, 
+------------------------
+Produto: 
+Descrição: Coca-Cola Original 350ml Lata
+Marca: COCACOLA
+Valor: 3.89
+Quantidade: 10
+Valor total: 38.9]
+------------------------
